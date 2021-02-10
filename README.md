@@ -9,7 +9,7 @@
 
 ### Past Owned Projects
 - M2 Recs Renderer in Knockout
-- Adobe Privacy Data Layer Extension of Magento
+- Magento's extension of Adobe Privacy Data Layer
 
 ### Past Project Contributions:
 - Recs Admin UI
