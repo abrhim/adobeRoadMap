@@ -5,7 +5,7 @@
 ### Current Projects
 - Headless Recs
   - Data Tracking
-  - Recommendation Fetching & Render
+  - Recommendation Fetching & Rendering
 
 ### Past Owned Projects
 - M2 Recs Renderer in Knockout
