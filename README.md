@@ -1,11 +1,13 @@
 ## Adobe Project History
-### Next Projects
-- Recs js SDK Refactor to use Magento Data Layer
+
 
 ### Current Projects
 - Headless Recs
   - Data Tracking
   - Recommendation Fetching & Rendering
+  
+### Next Projects
+- Recs js SDK Refactor to use Magento Data Layer
 
 ### Past Owned Projects
 - M2 Recs Renderer in Knockout
